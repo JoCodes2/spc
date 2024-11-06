@@ -1,6 +1,6 @@
 ## About
 
-Sistem Pengajuan Bantuan Pada Dinas Kelautan Dan Perikanan PEMPROV SULTENG
+Sistem Pengajuan Cuti Di BKKBN Kab Banggai
 
 #### Installation
 
